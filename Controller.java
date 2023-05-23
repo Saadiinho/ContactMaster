@@ -22,7 +22,7 @@ import java.util.Optional;
 
 
 public class Controller {
-	private String fichierCSV = "C:\\Users\\saadr\\OneDrive\\Documents\\Ecole\\Informatique\\Langage\\Java\\GestionnaireContact\\src\\application\\bddContact.csv";
+	private String fichierCSV = "chemin\\vers\\le\\repertoire\\bddContact.csv";
 	
 	@FXML
 	private Button btnAdd = new Button();
