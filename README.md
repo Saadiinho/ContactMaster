@@ -6,6 +6,6 @@ Voici les fonctionnalités de l'application ContactMaster :
 
 2- Recherche de contacts : Permet aux utilisateurs de rechercher des contacts en fonction de critères tels que le nom, le numéro de téléphone, l'adresse e-mail, etc.
 
-4- Modification de contacts : Permet aux utilisateurs de modifier les informations des contacts existants, par exemple pour mettre à jour un numéro de téléphone ou une adresse e-mail.
+3- Modification de contacts : Permet aux utilisateurs de modifier les informations des contacts existants, par exemple pour mettre à jour un numéro de téléphone ou une adresse e-mail.
 
-5- Suppression de contacts : Permet aux utilisateurs de supprimer des contacts de la liste.
+4- Suppression de contacts : Permet aux utilisateurs de supprimer des contacts de la liste.
